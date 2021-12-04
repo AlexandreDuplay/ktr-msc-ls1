@@ -2,4 +2,4 @@
 
 J'ai fais une github page pour lancer l'application directement depuis Github
 
-Pour executer hors de github: executer index.html
+Pour executer hors de github: ouvrir index.html
